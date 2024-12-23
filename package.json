@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-LucidCode01/",
+    "build": "vite build --base=/html-css_114_maksymrozvodovskyi/",
     "preview": "vite preview"
   },
   "devDependencies": {
